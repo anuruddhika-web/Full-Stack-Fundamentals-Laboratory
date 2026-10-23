@@ -1,0 +1,5 @@
+.task-completed span {
+  text-decoration: line-through;
+  color: #6c757d;
+  opacity: 0.7;
+}
